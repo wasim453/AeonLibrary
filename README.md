@@ -1,6 +1,6 @@
 # AeonLibrary
 Library Assignment
-# Technologies Used
+# Technical Stack
  - Spring Boot
  - Spring JPA
  - H2 Database (For Development) 
