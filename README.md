@@ -9,8 +9,10 @@ Library Assignment
 
 # Open API Documentation
 Open API Swagger URL
+
 http://localhost:8090/swagger-ui/index.html
 
 # H2 Database Console
 Login to below  H2 Databse console to see data and tables.
-localhost:8090/h2-console/
+
+http://localhost:8090/h2-console/login.jsp
